@@ -215,4 +215,4 @@ hm=sns.heatmap(data=data)
 
 
 # Result:
- Include your result here
+ Thus the python code using Seaborn library was executed succesfully.
